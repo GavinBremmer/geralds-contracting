@@ -6,7 +6,7 @@ This application will take the width and length of a house and return the number
 
 ---
 
-## How to use this Application
+### How to use this Application
 
 To run a calculation, pass in two parameters:
 
