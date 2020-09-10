@@ -59,4 +59,4 @@ Gerald gave us an example with the expected output as well, using an 8â€™ by 8â€
 I used the [yargs package] for the processing of the command line parameters. For more information on that package go to the [yargs package] website.
 
 [yargs package]:(https://www.npmjs.com/package/yargs)
-[Gerald]:https://media.gettyimages.com/photos/architect-looking-over-blueprints-picture-id868950880?s=2048x2048# geralds-contracting
+[Gerald]:https://media.gettyimages.com/photos/architect-looking-over-blueprints-picture-id868950880?s=2048x2048#
